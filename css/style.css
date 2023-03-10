@@ -446,8 +446,7 @@ hr {
 .Sub-header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), 
-    url(img/banner.png);
+    background-image: linear-gradient(#2228c9,#5FE3E4);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -507,7 +506,8 @@ hr {
 }
 
 .blog-left img {
-    width: 100%;
+    width: 75%;
+    height: 25%;
     margin-bottom: 20px;
 }
 
